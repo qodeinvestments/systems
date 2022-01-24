@@ -1,7 +1,3 @@
----
-layout: page
-title: home
----
 
 Qode Investments Systems
 

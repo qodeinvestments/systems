@@ -1,2 +1,2 @@
-# Banknifty Long System 
-This is a banknifty Long Overnight System. We intend to buy options and hold overnight. The system can go long calls/puts with a precise position sizing model
+#Qode Investments Systems
+This is a detailed document of all the systems run/backtested by Swan Capital

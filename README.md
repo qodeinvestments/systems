@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 Qode Investments Systems
 
 This is a detailed document of all the systems run live by Swan Capital.
